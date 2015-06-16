@@ -1,0 +1,10 @@
+.navbar-inverse{      
+	background-color: #66CCCC;
+}
+.imagesize{
+	width: 800px;
+	height: 600px;
+
+}
+/*how to over write the nav bar colors in the index page with 
+this new color*/
